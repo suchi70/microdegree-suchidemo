@@ -1,2 +1,1 @@
-contains all classes of Apex
-push the chnages to gihub
+Apex classes in Salesforce are blueprints for creating objects, containing variables (state) and methods (behavior) written in the Apex programming language. They are used to encapsulate and reuse functionality, control application logic, and interact with Salesforce data, similar to how classes are used in Java or C#. 
